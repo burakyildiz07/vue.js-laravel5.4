@@ -1,0 +1,48 @@
+----Main Features----
+Blog Posts
+Show Videos from Youtube
+ - Unique the website
+Discussion/Forum
+Share Resources(downloads,coupom codes)
+Dig/Reddit style posts
+
+----Technology Stack----
+-Laravel
+-Vue.js components and widgets
+-Ajax components(Axios/jQuery)
+-Sass
+-Nginx,Digital Ocean
+-ESP (SES,Sparkpost)
+
+----Information Architecture----
+Learn
+-Courses/Series
+-Blog Posts
+-Community Posts
+Discuss
+-Forums
+-Vote Upcoming
+Share
+-Reddit style Posts(Share links)
+-Resources(Coupon codes/Download)
+
+----Learn Section----
+Video Posts and Text posts
+Every post ability to share on social media,text,email
+Easy organized posts/ Dynamic Organization
+Easy writing
+	-Maybe Markdown?
+	-Some sort of WYS/WYG
+Each video I want support or forums undermeath
+	-The this into the forums..
+Combine videos into a series/playlist
+To search videos
+Find videos by skill
+Some videos might not have a series, on their own
+
+----Discuss Section----
+Voe upcoming videos
+ -User can submit a video idea
+	-Other users can vote up or down the idea
+	-ideas are sorted by most popoler votes
+	- Have a way view them by newest or upcoming
